@@ -1,4 +1,4 @@
-import cv2
+import cv2  #represents images as NumPy arrays in BGR (Blue-Green-Red) color order.
 from typing import Generator
 
 class VideoCapture:
