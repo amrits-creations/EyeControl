@@ -1,5 +1,3 @@
-# tests/test_gaze_estimator.py
-
 import cv2
 import numpy as np
 from src.video_capture import VideoCapture
